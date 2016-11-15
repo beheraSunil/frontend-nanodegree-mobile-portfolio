@@ -1,3 +1,15 @@
+#Website Performance Optimization portfolio project - SOLVED!!
+##Optimizations Made-
+
+__1. To index.html__
+ 1. Render-blocking JavaScript and CSS in above-the-fold content eliminated,
+ 2. Images are optimized,
+ 3. Class attribute is added to the HTML tags to optimize the CSS.
+ 
+__2. To views/main.js__
+  1. Forced synchronization layout solved by reading the layout property before block manipulation/change of style.
+
+***
 ## Website Performance Optimization portfolio project
 
 Your challenge, if you wish to accept it (and we sure hope you will), is to optimize this online portfolio for speed! In particular, optimize the critical rendering path and make this page render as quickly as possible by applying the techniques you've picked up in the [Critical Rendering Path course](https://www.udacity.com/course/ud884).
@@ -53,3 +65,5 @@ The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstra
 
 * <a href="http://getbootstrap.com/css/">Bootstrap's CSS Classes</a>
 * <a href="http://getbootstrap.com/components/">Bootstrap's Components</a>
+
+
