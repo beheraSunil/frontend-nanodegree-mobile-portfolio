@@ -8,6 +8,7 @@ __1. To index.html__
  
 __2. To views/main.js__
   1. Forced synchronization layout solved by reading the layout property before block manipulation/change of style.
+  2. The number of background pizzas has be reduced to 24
 
 ***
 ## Website Performance Optimization portfolio project
